@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Excel data files
+*.xlsx
+!*.py
+
+# Output directories
+outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
